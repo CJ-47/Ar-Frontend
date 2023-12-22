@@ -1,0 +1,21 @@
+.Subm{
+    
+    padding: 10px;
+    background-color: #C653FF;
+    margin: 20px;
+    border: 5px solid skyblue;
+    border-radius: 25px;
+}
+.inpt{
+    font-size: 20px;
+    padding: 10px;
+font-weight: bold;
+color: white;
+}
+label{
+    margin: 10px;
+}
+input{
+    position: absolute;
+    left:350px;
+}
